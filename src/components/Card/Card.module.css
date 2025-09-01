@@ -1,0 +1,31 @@
+.card{
+    border: 1px solid #000000;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin: 1rem 0;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    background-color: #e0e0d8d7;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.card h3 {
+  margin: 0 0 8px 0;
+  font-size: 2rem;
+}
+.card p {
+  margin: 0.25rem 0;
+  font-size: 1rem;
+}
+.card span {
+  font-weight: bold;
+}
+.card img {
+  width: 80%;
+  height: auto;
+  border-radius: 0.25rem;
+}

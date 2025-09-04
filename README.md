@@ -1,4 +1,4 @@
-# React + TypeScript + Vite + Styled Components
+# React + TypeScript + Vite + CSS Modules
 
 <h2>Buscador de Países</h2>
 <p ></p>Consumindo API do Rest Countries https://restcountries.com/#rest-countries via fetch para exibir informações de países do mundo.</p>
